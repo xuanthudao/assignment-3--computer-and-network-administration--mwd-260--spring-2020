@@ -10,6 +10,8 @@ The answers to all the following questions should be included between the fenced
 ssh roy@user-bauhaus.cs.hartford.edu
 ```
 
+**Note**: Ensure `shellcheck` issues no errors.
+
 ## ❖・Questions・❖
 
 ### Question 1
